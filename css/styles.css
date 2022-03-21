@@ -4,8 +4,11 @@ body
     padding: 0;  
     /* background-color:#2e4775;   */
     font-family: 'Arial'; 
-    background-image: url('https://cdn.buymeacoffee.com/uploads/project_updates/2021/12/eec8bd4ce9a4998cf993c1eb4fe78a13.gif'); 
-    
+    background-image: url('https://25.media.tumblr.com/08d00b3c5cc314afc210e184624ea86e/tumblr_mrqqtojc8H1rqzfjlo1_500.gif'); 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 
@@ -70,4 +73,15 @@ input{
     font-weight: 300;
     box-sizing: border-box;
  
+}
+
+footer{
+
+  font-size: 20px;
+  margin-left: 10px;
+  padding: 40px;
+  text-align: center;
+  
+
+
 }
