@@ -1,0 +1,73 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    /* background-color:#2e4775;   */
+    font-family: 'Arial'; 
+    background-image: url('https://cdn.buymeacoffee.com/uploads/project_updates/2021/12/eec8bd4ce9a4998cf993c1eb4fe78a13.gif'); 
+    
+}
+
+
+h1{
+    text-indent: 150px;
+    color: white;
+    font-style: bold;
+    font-size:  100px;
+    padding-top: 200px;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+form{
+    height: 500px;
+    width: 400px;
+    background-color: #ffffff21;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    backdrop-filter: blur(8px);
+    border: 2px solid #ffffff1a;
+    box-shadow: 0 0 40px #16133099;
+    padding: 50px 35px;
+}
+
+form *{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #c4bcbc;
+}
+
+form h3{
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 42px;
+    text-align: center;
+}
+
+
+label{
+    display: block;
+    font-family: "Helvetica Neue",Helvetica,Arial;
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 400;
+    height: 45px;
+    width: 75%;
+   
+}
+
+input{
+    display: block;
+    height: 45px;
+    width: 90%;
+    background-color: #0a223fb0;
+    border-radius: 5px;
+    padding: 0 10px;
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: 300;
+    box-sizing: border-box;
+ 
+}
