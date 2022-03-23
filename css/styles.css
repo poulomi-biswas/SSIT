@@ -9,17 +9,12 @@ body
     -o-background-size: cover;
     background-size: cover;
 }
-
-
-
-h1{
-    text-indent: 150px;
-    color: #e6dbdb;
-    font-style: bold;
-    font-size:  100px;
-    padding-top: 200px;
-    font-family:'Times New Roman', Times, serif;
-    
+.logo img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 55%;
+    width: 30%;
 }
 
 form{
@@ -85,6 +80,4 @@ footer{
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   
-
-
 }
