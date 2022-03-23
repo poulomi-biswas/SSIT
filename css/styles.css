@@ -3,7 +3,7 @@ body
    
     /* background-color:#2e4775;   */
     font-family: 'Arial'; 
-    background-image: url('https://25.media.tumblr.com/08d00b3c5cc314afc210e184624ea86e/tumblr_mrqqtojc8H1rqzfjlo1_500.gif'); 
+    background-image: url('https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif'); 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -11,9 +11,10 @@ body
 }
 
 
+
 h1{
     text-indent: 150px;
-    color: white;
+    color: #e6dbdb;
     font-style: bold;
     font-size:  100px;
     padding-top: 200px;
@@ -38,7 +39,7 @@ form{
 
 form *{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #c4bcbc;
+    color: #ffffff;
 }
 
 form h3{
@@ -80,6 +81,9 @@ footer{
   margin-left: 10px;
   padding: 40px;
   text-align: center;
+  background: -webkit-linear-gradient(#cacfa2, #b4a90e);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   
 
 
