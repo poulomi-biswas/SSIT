@@ -3,11 +3,13 @@ body
    
     /* background-color:#2e4775;   */
     font-family: 'Arial'; 
-    background-image: url('https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif'); 
+    background-image: url('https://64.media.tumblr.com/fc0d870590601619ef3382ea7963ca10/e4d17f5ca7d8c3c6-f9/s540x810/5dbfeb8d34c96384bbe780108d581ce2f3d0940b.gifv'); 
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    -o-background-size: contain;
+    max-width: 100%;
+    height: auto;
+    
 }
 .logo img{
     position:absolute;
