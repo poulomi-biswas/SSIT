@@ -67,8 +67,17 @@ input{
     font-size: 14px;
     font-weight: 300;
     box-sizing: border-box;
+    text-align: center;
  
 }
+.button {
+    transition-duration: 0.4s;
+  }
+  
+  .button:hover {
+    background-color: #0e4468; 
+    color: white;
+  }
 
 footer{
 
@@ -76,7 +85,7 @@ footer{
   margin-left: 10px;
   padding: 40px;
   text-align: center;
-  background: -webkit-linear-gradient(#cacfa2, #b4a90e);
+  background: -webkit-linear-gradient(#f5f5f5, #f7e707);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   
