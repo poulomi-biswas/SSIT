@@ -28,7 +28,7 @@ form{
     top: 50%;
     left: 50%;
     border-radius: 10px;
-    backdrop-filter: blur(8px);
+    backdrop-filter: blur(2px);
     border: 2px solid #ffffff1a;
     box-shadow: 0 0 40px #16133099;
     padding: 50px 35px;
